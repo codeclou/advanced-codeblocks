@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/12599965/42124479-b2b02a12-7c63-11e8-8f57-d5de919ba0a2.png" align="right" />
 
-# Advanced Codeblock Macro for Atlassian Confluence®
+# Advanced Codeblock Macro 
+
+### for Atlassian Confluence®
 
 This is the repository for the [Advanced Codeblock Macro](https://codeclou.io/products/advanced-codeblock-macro/) for Atlassian Confluence® made by [codeclou.io](https://codeclou.io/).
 
