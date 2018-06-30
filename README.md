@@ -2,7 +2,7 @@
 
 # Advanced Codeblock Macro 
 
-### for Atlassian Confluence®
+## for Atlassian Confluence®
 
 This is the repository for the [Advanced Codeblock Macro](https://codeclou.io/products/advanced-codeblock-macro/) for Atlassian Confluence® made by [codeclou.io](https://codeclou.io/).
 
