@@ -9,6 +9,6 @@ This is the repository for the [Advanced Codeblock Macro](https://codeclou.io/pr
 -----
 
    * :bulb: [Usage Guide](https://codeclou.io/advanced-codeblock-macro/redirect/?/latest/user-guide/)
-   * :bulb: [Issue-Tracker](https://github.com/codeclou/advanced-codeblock-macro/issues)
+   * :bulb: [Support & Issue-Tracker](https://codeclou.io/advanced-codeblock-macro/redirect/?/latest/issue-tracker/)
    * :bulb: [EULA](https://codeclou.io/advanced-codeblock-macro/redirect/?/latest/license/)
    * :bulb: [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1211159/advanced-codeblock-macro)
