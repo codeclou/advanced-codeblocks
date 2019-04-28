@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/12599965/42124479-b2b02a12-7c63-11e8-8f57-d5de919ba0a2.png" align="right" />
+<img src="https://user-images.githubusercontent.com/12599965/56864901-501d8b80-69c8-11e9-9e87-c7e687615a0a.png" align="right" />
 
 # Advanced Codeblocks
 
