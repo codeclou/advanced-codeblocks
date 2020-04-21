@@ -2,14 +2,14 @@
 
 ## Advanced Codeblocks for Confluence
 
-This is the repository for the [Advanced Codeblocks](https://codeclou.io/products/advanced-codeblock-macro/) for Confluence made by [codeclou.io](https://codeclou.io/).
+This is the repository for the [Advanced Codeblocks](https://codeclou.io/products/advanced-codeblocks-for-confluence/) for Confluence made by [codeclou.io](https://codeclou.io/).
 
 &nbsp;
 &nbsp;
 
 -----
 
-   * :bulb: [Usage Guide](https://codeclou.io/advanced-codeblock-macro/redirect/?/latest/user-guide/)
-   * :bulb: [Support & Issue-Tracker](https://codeclou.io/advanced-codeblock-macro/redirect/?/latest/issue-tracker/)
-   * :bulb: [EULA](https://codeclou.io/advanced-codeblock-macro/redirect/?/latest/license/)
+   * :bulb: [Usage Guide](https://codeclou.io/advanced-codeblocks-for-confluence/latest/user-guide/get-started/)
+   * :bulb: [Support & Issue-Tracker](https://codeclou.io/advanced-codeblocks-for-confluence/latest/support/)
+   * :bulb: [EULA](https://codeclou.io/advanced-codeblocks-for-confluence/latest/license/)
    * :bulb: [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1211159/advanced-codeblock-macro)
